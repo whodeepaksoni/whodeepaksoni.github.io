@@ -37,7 +37,7 @@ const socialMediaLinks = [
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/deepak-soni-398007270/",
+    link: "https://www.linkedin.com/in/whodeepaksoni/",
     fontAwesomeIcon: "fa-linkedin-in",
     backgroundColor: "#0077B5",
   },
