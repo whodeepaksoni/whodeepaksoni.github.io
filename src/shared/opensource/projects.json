@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "id": "deepak-production-cicd-pipeline",
+      "name": "Production-Grade-Multi-Cloud-DevOps-Platform",
+      "createdAt": "2026-05-01T00:00:00Z",
+      "url": "https://github.com/whodeepaksoni/Production-Grade-Multi-Cloud-DevOps-Platform",
+      "description": "This project implements a CI/CD pipeline where Jenkins pulls source code from GitHub, builds a Docker image, pushes it to Docker Hub, and deploys the updated container on a Linux deployment server. Integrated Trivy in Jenkins pipeline to scan Docker images for vulnerabilities before pushing images to Docker Hub. Stage 1: Code Checkout from GitHub Stage 2: Docker Image Build Stage 3: Trivy Vulnerability Scan Stage 4: Docker Hub Login Stage 5: Docker Image Push Stage 6: Deployment on Linux Server Stage 7: Application Verification.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "Jenkins",
+          "iconifyClass": "logos-jenkins"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker-icon"
+        },
+        {
+          "name": "GitHub",
+          "iconifyClass": "logos-github-icon"
+        },
+        {
+          "name": "Linux",
+          "iconifyClass": "logos-linux-tux"
+        }
+      ]
+    },
+    {
+      "id": "e-commerce_app",
+      "name": "e-commerce_app",
+      "createdAt": "2026-05-10T00:00:00Z",
+      "url": "https://github.com/whodeepaksoni/e-commerce_app",
+      "description": "This project demonstrates the automated deployment of an E-Commerce application using modern DevOps tools and cloud automation practices.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "Jenkins",
+          "iconifyClass": "logos-jenkins"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker-icon"
+        },
+        {
+          "name": "GitHub",
+          "iconifyClass": "logos-github-icon"
+        },
+        {
+          "name": "Linux",
+          "iconifyClass": "logos-linux-tux"
+        },
+        {
+          "name": "Trivy",
+          "iconifyClass": "trivy"
+        },
+        {
+          "name": "Terraform",
+          "iconifyClass": "logos-terraform-icon"
+        },
+        {
+          "name": "Kubernetes",
+          "iconifyClass": "logos-kubernetes"
+        },
+        {
+          "name": "Ansible",
+          "iconifyClass": "logos-ansible"
+        }
+
+
+      ]
+    },
+    {
+      "id": "Multi-Node-Jenkins-CI-CD-Implementation-Project",
+      "name": "Multi-Node-Jenkins-CI-CD-Implementation-Project",
+      "createdAt": "2026-05-15T00:00:00Z",
+      "url": "https://github.com/whodeepaksoni/Multi-Node-Jenkins-CI-CD-Implementation-Project",
+      "description": "This project demonstrates the complete implementation of a DevOps Lifecycle for Abode Software using Jenkins, Docker, Ansible, and Git workflow.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "Jenkins",
+          "iconifyClass": "logos-jenkins"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker-icon"
+        },
+        {
+          "name": "GitHub",
+          "iconifyClass": "logos-github-icon"
+        },
+        {
+          "name": "Linux",
+          "iconifyClass": "logos-linux-tux"
+        },
+        {
+          "name": "Terraform",
+          "iconifyClass": "logos-terraform-icon"
+        }
+        
+      ]
+    },
+    {
+      "id": "deepak-kubernetes-cluster",
+      "name": "DevOps lifecycle for a product-based organization using modern DevOps tools and practices.",
+      "createdAt": "2026-05-20T00:00:00Z",
+      "url": "https://github.com/whodeepaksoni/Project-vid479",
+      "description": "The application was containerized using Docker, automated using Jenkins CI/CD Pipeline, deployed on a Kubernetes cluster with scaling support, and infrastructure provisioning was automated using Terraform on AWS Cloud.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Kubernetes",
+          "iconifyClass": "logos-kubernetes"
+        },
+       {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "Jenkins",
+          "iconifyClass": "logos-jenkins"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker-icon"
+        },
+        {
+          "name": "GitHub",
+          "iconifyClass": "logos-github-icon"
+        },
+        {
+          "name": "Linux",
+          "iconifyClass": "logos-linux-tux"
+        },
+        {
+          "name": "Terraform",
+          "iconifyClass": "logos-terraform-icon"
+        },
+        {
+          "name": "Ansible",
+          "iconifyClass": "logos-ansible"
+        }
+        
+      ]
+    },
+    {
+      "id": "deepak-multi-node-cicd-pipeline",
+      "name": "AWS Multi-Tier Project (EC2 + RDS + AMI + PHP Form Submission)",
+      "createdAt": "2026-05-22T00:00:00Z",
+      "url": "https://github.com/whodeepaksoni/AWS-Multi-Tier-Project-EC2-RDS-AMI-PHP-Form-Submission",
+      "description": "Tech Stack Used Component Service Compute EC2 + AMI Database Amazon RDS (MySQL) Backend PHP Web Server Apache Connectivity Security Groups OS Ubuntu",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Linux",
+          "iconifyClass": "logos-linux-tux"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos-microsoft-azure"
+        }
+      ]
+    },
+    {
+      "id": "Secure Patient Report Delivery System Using AWS SNS & VPC",
+      "name": "Secure Patient Report Delivery System Using AWS SNS & VPC",
+      "createdAt": "2026-05-25T00:00:00Z",
+      "url": "https://github.com/whodeepaksoni/Secure-Patient-Report-Delivery-System-Using-AWS-SNS-VPC",
+      "description": "This project demonstrates how hospitals can securely deliver patient reports online. The goal is to ensure that sensitive medical data is encrypted, private, and only accessible to the intended patient via mobile notifications.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Linux",
+          "iconifyClass": "logos-linux-tux"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "logos-aws"
+        },
+        {
+          "name": "Azure",
+          "iconifyClass": "logos-microsoft-azure"
+        }
+      ]
+    }
+  ]
+}
