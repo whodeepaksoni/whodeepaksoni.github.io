@@ -18,7 +18,7 @@ const seo = {
 const greeting = {
   title: "Deepak Soni",
   logo_name: "DeepakSoni",
-  nickname: "Deepak",
+  nickname: "Clouds & DevOps Engineer",
   subTitle:
     "DevOps Engineer | AWS • Azure • Docker • Kubernetes • Terraform • Jenkins | Building Scalable Cloud Infrastructure and CI/CD Pipelines",
   resumeLink:
