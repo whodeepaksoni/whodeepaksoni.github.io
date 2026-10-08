@@ -18,9 +18,9 @@ const seo = {
 const greeting = {
   title: "Deepak Soni",
   logo_name: "DeepakSoni",
-  nickname: "Clouds & DevOps Engineer",
+  nickname: "IT Infra & Clouds & DevOps Engineer",
   subTitle:
-    "DevOps Engineer | AWS • Azure • Docker • Kubernetes • Terraform • Jenkins | Building Scalable Cloud Infrastructure and CI/CD Pipelines",
+    "IT Infrastructure & DevOps Engineer | Cloud & Infrastructure Automation | AWS • Azure • Docker • Kubernetes • Terraform • Jenkins | CI/CD & Scalable Infrastructure",
   resumeLink:
     "https://drive.google.com/file/d/1izkkkryWz2I-QULGo7B5lEWtsN7CHhzR/view?usp=sharing",
   portfolio_repository:
@@ -259,17 +259,28 @@ const certifications = {
     },
     {
       title: "Amazon Web Services (AWS) Solutions Architect - Associate",
-      subtitle: "- Hands-on Training",
+      subtitle: "- Intellipaat",
       logo_path: "intellipaat.webp",
-      certificate_link: "https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEyOTExJnU9MzEyODI1JmV4dD0x",
+      certificate_link:
+        "https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEyOTExJnU9MzEyODI1JmV4dD0x",
       alt_name: "AWS",
       color_code: "#FF990099",
     },
     {
       title: "Microsoft Azure Administrator",
-      subtitle: "- AZ-104 Learning",
+      subtitle: "- Intellipaat",
       logo_path: "intellipaat.webp",
-      certificate_link: "https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEzMDM0JnU9MzEyODI1JmV4dD0x",
+      certificate_link:
+        "https://lms.intellipaat.com/certificate-link/?Yz1jdXMtOTEzMDM0JnU9MzEyODI1JmV4dD0x",
+      alt_name: "Microsoft Azure",
+      color_code: "#0089D699",
+    },
+    {
+      title: "Cloud Computing Mastery Program",
+      subtitle: "- Exlearn",
+      logo_path: "exlearn.jpeg",
+      certificate_link:
+        "https://credsverse.com/credentials/3eabf3b3-2824-4f85-9af2-d35c0bbcc4d0?preview=1",
       alt_name: "Microsoft Azure",
       color_code: "#0089D699",
     },
@@ -279,13 +290,13 @@ const degrees = {
   degrees: [
     {
       title: "Indira Gandhi University",
-      subtitle: "Bachelor of Business Administration",
+      subtitle: "Bachelor of Computer Applications",
       logo_path: "igu.png",
       alt_name: "Indira Gandhi University",
       duration: "2021 - 2024",
       descriptions: [
-        "⚡ Graduated with a BBA from Indira Gandhi University, Haryana.",
-        "⚡ During my academic journey, I developed a strong interest in technology and transitioned into Cloud & DevOps Engineering."
+        "⚡ Graduated with a BCA from Indira Gandhi University, Haryana.",
+        "⚡ During my academic journey, I developed a strong interest in technology and transitioned into Cloud & DevOps Engineering.",
       ],
       website_link: "https://igu.ac.in/",
     },
@@ -324,6 +335,17 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Senior IT Executive",
+          company: "Lumax Greenfuel Energy Pvt. Ltd.",
+          company_url: "https://Greenfuelenergy.in/",
+          logo_path: "Greenfuel_logo.png",
+          duration: "September 2026 - Present",
+          location: "Gurugram, Haryana",
+          description:
+            "Working as a Sr. IT Executive, managing IT infrastructure and operations across 8 plants located at different locations. Responsible for remote IT infrastructure management, on-premises server administration, Active Directory, SAP server support, networking, end-user support, IT assets and vendor coordination. • Manage IT infrastructure and provide centralized remote support to 8 plants across different locations. • Manage on-premises Windows Servers and Active Directory Domain Services (AD DS), including user accounts, computer objects, Group Policy, authentication and access management. • Manage and support SAP server infrastructure, including server availability, connectivity, basic troubleshooting and coordination with SAP/application teams. • Monitor and troubleshoot server-related issues including system health, storage, connectivity, updates and backup requirements. • Manage and troubleshoot LAN/WAN infrastructure, switches, routers, firewalls, Wi-Fi, DNS, DHCP, VLANs and Internet connectivity across multiple locations. • Coordinate with ISPs and network vendors for leased-line, Internet, WAN connectivity and network-related issues. • Provide L1/L2 support for desktops, laptops, printers, scanners, Windows systems and business applications. • Manage Microsoft 365, Outlook and other Microsoft Office applications, including user configuration and troubleshooting. • Manage IT assets including computers, servers, networking equipment, printers and peripherals, maintaining proper inventory and allocation records. • Handle user onboarding/offboarding, account creation, access provisioning, device allocation and asset recovery. • Coordinate with vendors, service providers and internal teams for hardware, software, networking, server and infrastructure-related issues. • Support IT procurement, hardware/software deployment, infrastructure upgrades and new IT requirements. • Assist in maintaining IT security, endpoint protection, system updates, access controls and backup practices. • Monitor and resolve IT incidents remotely and coordinate on-site support whenever required to minimize downtime. • Maintain IT documentation related to servers, network infrastructure, assets, users, vendors and IT operations. Key Skills: IT Infrastructure Management, Windows/ Linux Server, Active Directory (AD DS), Group Policy, SAP Server Support, Server Administration, Network Administration, LAN/WAN, DNS, DHCP, VLAN, Switching, Routing, Firewall, Microsoft 365, Desktop Support, IT Asset Management, Access Management, Backup, IT Security, Vendor Management and Multi-Location IT Operations.",
+          color: "#000000",
+        },
+        {
           title: "DevOps Engineer / IT Manager",
           company: "Vidyakul Learning Space",
           company_url: "https://vidyakul.com/",
@@ -361,15 +383,11 @@ const experience = {
   ],
 };
 const projectsHeader = {
-
   title: "Projects",
   description:
     "My projects focus on cloud infrastructure, CI/CD automation, containerization, Kubernetes deployment, monitoring and production-ready DevOps workflows using AWS, Azure, Jenkins, Docker, Terraform, Ansible and Linux.",
   avatar_image_path: "projects_image.svg",
 };
-
-
-
 
 const contactPageData = {
   contactSection: {
